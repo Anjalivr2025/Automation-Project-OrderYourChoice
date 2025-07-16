@@ -46,7 +46,9 @@ OrderYourChoice-Automation/
 ├── testng.xml
 ├── pom.xml
 └── README.md
+
 🧪 Highlights
+
 Robust automation of a full shopping journey
 Data-driven login tests with scalable credential input
 UI, functional, and behavioral validations
