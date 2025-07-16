@@ -53,6 +53,7 @@ UI, functional, and behavioral validations
 Exception handling and reusable methods for optimized stability
 
 👤 Author
+
 Anjali V.R
 
 QA Automation Engineer
